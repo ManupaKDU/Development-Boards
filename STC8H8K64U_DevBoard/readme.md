@@ -75,7 +75,7 @@ You can also utilize the manufacturer's proprietary programming tool, [STC ISP](
 To initiate new uploads, the bootloader needs to be manually started. Begin by unplugging the board from the USB port and disconnecting all power sources. Then, press and hold the BOOT button while reconnecting the board to your PC's USB port. This action triggers the chip to enter bootloader mode. Once in this mode, you can release the BOOT button and proceed to upload new firmware via USB.
 
 ## Arduino IDE Support
-An Arduino core for the STC8H series can be found [here](https://github.com/ma6254/Arduino_Core_STC).
+An Arduino core for the STC8H series can be found [here](https://github.com/thevien257/STC_Arduino_Core).
 
 # References, Links and Notes
 - [EasyEDA Design Files](https://oshwlab.com/wagiminator)
@@ -83,7 +83,7 @@ An Arduino core for the STC8H series can be found [here](https://github.com/ma62
 - [STC ISP Software](https://www.stcmicro.com/rjxz.html)
 - [MCU Templates](https://github.com/wagiminator/MCU-Templates)
 - [MCU Flash Tools](https://github.com/wagiminator/MCU-Flash-Tools)
-- [Arduino Support](https://github.com/ma6254/Arduino_Core_STC)
+- [Arduino Support](https://github.com/thevien257/STC_Arduino_Core)
 
 ![STC8H8K64U_DevBoard_pic2.jpg](https://raw.githubusercontent.com/wagiminator/Development-Boards/main/STC8H8K64U_DevBoard/documentation/STC8H8K64U_DevBoard_pic2.jpg)
 ![STC8H8K64U_DevBoard_pic3.jpg](https://raw.githubusercontent.com/wagiminator/Development-Boards/main/STC8H8K64U_DevBoard/documentation/STC8H8K64U_DevBoard_pic3.jpg)
